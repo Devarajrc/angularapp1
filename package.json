@@ -1,0 +1,29 @@
+{
+  "name": "angularapp1",
+  "version": "1.0.0",
+  "description": "steps \r npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devarajrc/angularapp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devarajrc/angularapp1/issues"
+  },
+  "homepage": "https://github.com/Devarajrc/angularapp1#readme",
+  "devDependencies": {
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "@angular/cli": "^6.1.2",
+    "babel-cli": "^6.26.0",
+    "eslint": "^5.3.0",
+    "typescript": "^3.0.1"
+  }
+}
